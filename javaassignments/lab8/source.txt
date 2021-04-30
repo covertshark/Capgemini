@@ -1,0 +1,1 @@
+Write a thread program to display timer where timer will get refresh after every 10seconds.
